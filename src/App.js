@@ -13,7 +13,7 @@ const App = React.memo(() => {
       <NavBar />
       <Banner />
       <Skills />
-      <Projects />
+      //<Projects />
       <Connect />
     </div>
   );
